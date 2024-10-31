@@ -12,7 +12,7 @@ E-mail : sjin4861@pusan.ac.kr
 
 🏅 Algorithm Gold Level. 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuna1do)](https://solved.ac/sjin4861/)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjin4861)](https://solved.ac/sjin4861/)  
 Programmers - Lv3
 
 📃 Papers
