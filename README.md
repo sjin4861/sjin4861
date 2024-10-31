@@ -1,10 +1,10 @@
 ### Hi Welcome, i'm JUN SEO 👋
 
-#### AI Researcher / Data Engineering
+#### AI Researcher / MATH Teacher
 
 🛠️ Stacks
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-FF6F00?style=flat-square&logo=Pytorch&logoColor=white"/> 
 
 🐱 Contact Me
 
