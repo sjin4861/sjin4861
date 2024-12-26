@@ -1,4 +1,4 @@
-### Hi Welcome, i'm JUN SEO 👋
+### Hi, I'm JUN SEO 👋
 I'm currently an undergraduate student at Pusan National University, Republic of Korea, majoring in Computer Science and minoring in Mathematics and is actively engaged in teaching mathematics to high school students. 
 My research interests include reinforcement learning, generative AI, and Edu Tech.
 
