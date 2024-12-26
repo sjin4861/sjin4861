@@ -2,9 +2,7 @@
 I'm currently an undergraduate student at Pusan National University, Republic of Korea, majoring in Computer Science and minoring in Mathematics and is actively engaged in teaching mathematics to high school students. 
 My research interests include reinforcement learning, generative AI, and Edu Tech.
 
-#### AI Researcher / MATH Teacher
-
-🛠️ Stacks
+🛠️ My Stacks
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-FF6F00?style=flat-square&logo=Pytorch&logoColor=white"/> 
 
