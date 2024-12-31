@@ -18,7 +18,7 @@ Programmers - Lv3
 
 📃 Papers
 
-Estimated Tardiness-based Reinforcement Learning Solution to Repeatable Job-Shop Scheduling Problems, 2025 [!link](https://www.mdpi.com/3114726)
+Estimated Tardiness-based Reinforcement Learning Solution to Repeatable Job-Shop Scheduling Problems, 2025 [link](https://www.mdpi.com/3114726)
 
 🏆 Awards
 |Competition|Prize|Date|
