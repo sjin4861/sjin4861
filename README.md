@@ -9,7 +9,7 @@ My research interests include reinforcement learning, generative AI, and Edu Tec
 
 🐱 Contact Me
 
-E-mail : sjin4861@pusan.ac.kr
+E-mail : sjin4861@postech.ac.kr
 
 🏅 Algorithm Gold Level. 
 
