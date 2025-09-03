@@ -1,7 +1,10 @@
 ### Hi, i'm Jun Seo 👋
-I'm currently an undergraduate student at Pusan National University, Republic of Korea, majoring in Computer Science and minoring in Mathematics.
-Also, i'm actively engaged in teaching mathematics to high school students. 
-My research interests include reinforcement learning, generative AI, and Edu Tech.
+I'm currently a student researcher at the NLP Lab, POSTECH (Pohang University of Science and Technology), Republic of Korea.
+My academic interests lie in Mathematics Education and Knowledge Tracing, where I aim to bridge the gap between AI and personalized learning.
+
+While teaching high school mathematics to a diverse range of students, I realized the importance of tailoring education to each individual learner. This classroom experience has become the foundation and guiding principle of my research.
+
+Now, at the POSTECH NLP Lab, I am working to develop AI systems that can create personalized learning paths, empowering every student to learn at their own pace and in their own direction.
 
 🛠️ My Stacks
 
