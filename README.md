@@ -25,5 +25,6 @@ Estimated Tardiness-based Reinforcement Learning Solution to Repeatable Job-Shop
 
 🏆 Awards
 |Competition|Prize|Date|
-|PNU 3th Coding Challenge|Encouragement Award (6th)|24.06.26.|
 |-----|-----|-----|
+|POSTECH Digital Twin Chatbot Hackathon|1st Place (Grand Prize)|25.09.28.|
+|PNU 3th Coding Challenge|Encouragement Award (6th)|24.06.26.|
