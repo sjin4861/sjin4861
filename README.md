@@ -14,11 +14,6 @@ Now, at the POSTECH NLP Lab, I am working to develop AI systems that can create 
 
 E-mail : sjin4861@postech.ac.kr
 
-🏅 Algorithm Gold Level. 
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjin4861)](https://solved.ac/sjin4861/)  
-Programmers - Lv3
-
 📃 Papers
 
 Estimated Tardiness-based Reinforcement Learning Solution to Repeatable Job-Shop Scheduling Problems, 2025 [link](https://www.mdpi.com/3114726)
