@@ -13,7 +13,7 @@ E-mail : sjin4861@postech.ac.kr
 ## 📃 Selected Papers
 
 * **Behavior-Aware Item Modeling via Dynamic Procedural Solution Representations for Knowledge Tracing**
-  *2026, In Progress*
+  *2026*, [[Paper](https://arxiv.org/abs/2604.08260)]
 * **A Multi-Agent Framework for Feature-Constrained Difficulty Control in Reading Comprehension Item Generation**
   *2026, In Progress*
 * **Estimated Tardiness-based Reinforcement Learning Solution to Repeatable Job-Shop Scheduling Problems**
