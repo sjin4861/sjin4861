@@ -12,28 +12,11 @@ E-mail : sjin4861@postech.ac.kr
 
 ## 📃 Selected Papers
 
+* **Segment-level Tree Search for Long Meeting Document Summarization**
+  *2026*, [[Paper](https://arxiv.org/abs/2606.08445)] 
+* **A Multi-Agent Framework for Feature-Constrained Difficulty Control in Reading Comprehension Item Generation**
+  *2026*, [[Paper](https://arxiv.org/abs/2605.19316)]
 * **Behavior-Aware Item Modeling via Dynamic Procedural Solution Representations for Knowledge Tracing**
   *2026*, [[Paper](https://arxiv.org/abs/2604.08260)]
-* **A Multi-Agent Framework for Feature-Constrained Difficulty Control in Reading Comprehension Item Generation**
-  *2026, In Progress*
 * **Estimated Tardiness-based Reinforcement Learning Solution to Repeatable Job-Shop Scheduling Problems**
   *2025* [[Paper](https://www.mdpi.com/3114726)]
-
-## 👨‍🏫 Teaching Experience
-
-* **Teaching Assistant** @ POSCO Youth AI & Big Data Academy, *Winter 2025*
-  Natural Language Generation
-* **Teaching Assistant** @ Pusan National University, *Spring 2025*
-  Software Design and Experiment
-* **Mathematics Instructor** @ Miju Academy, *Dec. 2022 – Jun. 2025*
-  Korean SAT Mathematics
-* **Math & Physics Mentor** @ ETOOS 247, *2021*
-  Korean SAT Mathematics
-* **Math Mentor** @ Yangjeong Youth Center, *2020*
-  Korean GED Mathematics Education Volunteer
-
-## 🏆 Awards
-|Competition|Prize|Date|
-|-----|-----|-----|
-|POSTECH Digital Twin Chatbot Hackathon|1st Place (Grand Prize)|25.09.28.|
-|PNU 3th Coding Challenge|Encouragement Award (6th)|24.06.26.|
